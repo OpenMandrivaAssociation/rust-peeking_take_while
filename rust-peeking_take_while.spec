@@ -5,8 +5,8 @@
 %global crate peeking_take_while
 
 Name:           rust-%{crate}
-Version:        0.1.2
-Release:        8%{?dist}
+Version:        1.0.0
+Release:        1%{?dist}
 Summary:        Like `Iterator::take_while`, but calls the predicate on a peeked value
 
 # Upstream license specification: Apache-2.0/MIT
